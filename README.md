@@ -5,5 +5,7 @@
 # Database
 use localStorage in browser
 # Installation
-[https://github.com/Khalidaitmiloud/Social-network-.git]
+```
+git clone https://github.com/Khalidaitmiloud/Social-network-.git
 
+```
